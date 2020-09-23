@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "43425525193",
+    "firebase_url": "https://chat-app-f4350.firebaseio.com",
+    "project_id": "chat-app-f4350",
+    "storage_bucket": "chat-app-f4350.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:43425525193:android:4d687c0be2c047c7ca8c18",
+        "android_client_info": {
+          "package_name": "com.ananda.chatapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "43425525193-tsb6t75o8ob278tijom9chtku0gpor79.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ananda.chatapp",
+            "certificate_hash": "c2ca2d1e458dd0160a51c3cab3a48472444ba1f1"
+          }
+        },
+        {
+          "client_id": "43425525193-37fqmsud5vnilbqh0euv3c2sl93abef7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQ0chRqQGR2WcqFd-ZRVhcsg2h8ddFxKc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "43425525193-37fqmsud5vnilbqh0euv3c2sl93abef7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
